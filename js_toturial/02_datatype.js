@@ -24,4 +24,8 @@ let isloggedIn = false
 //object
 
 console.log(typeof "Rajan")
-log
+console.log(typeof age)
+console.log(typeof null);//null is define by object 
+console.log(typeof undefined);// undefined
+
+
