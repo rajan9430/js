@@ -23,11 +23,9 @@
 //let isLoggedIn = 1 // value is  true
 //let isLoggedIn = 0 // value is  false
 //let isLoggedIn = "" // value is false
-// let isLoggedIn = "Rajan" //value is true
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
-//console.log(booleanIsLoggedIn);
-
-let someNumber = 33
+// 
+let someNumber = 33 // convert value 33 is string
 
 let stringNumber = string(someNumber)
-console.log(stringNumber);
+//console.log(stringNumber);
+console.log(typeof stringNumber);
