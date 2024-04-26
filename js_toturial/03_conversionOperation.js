@@ -27,5 +27,5 @@
 let someNumber = 33 // convert value 33 is string
 
 let stringNumber = string(someNumber)
-//console.log(stringNumber);
+console.log(stringNumber);
 console.log(typeof stringNumber);
