@@ -23,9 +23,9 @@
 //let isLoggedIn = 1 // value is  true
 //let isLoggedIn = 0 // value is  false
 //let isLoggedIn = "" // value is false
-// 
+
 let someNumber = 33 // convert value 33 is string
 
-let stringNumber = string(someNumber)
+let stringNumber = String(someNumber)
 console.log(stringNumber);
-console.log(typeof stringNumber);
+console.log(typeof 'stringNumber');
