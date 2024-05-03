@@ -1,10 +1,10 @@
 //let value = 3
 //let posvalue = +value
-//console.log(posvalue); 
+//console.log(posvalue); // this value is 3
 
 let value = 5
 let nagvalue = -value
-// console.log(nagvalue);
+// console.log(nagvalue); //this value is-5
 // console.log(2+2);
 // console.log(2-2);
 // console.log(2*2);
@@ -25,7 +25,7 @@ let str3 = str1 + str2
 
 // console.log((3 + 4) *5 % 3); // this value is 2
 
-console.log(true);// value is true
+console.log(true);// value is true/boolen type
 console.log(false);// value is false
 
 console.log(+true); //value is 1 but this not redebal code/confusition code
